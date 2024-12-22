@@ -47,6 +47,7 @@ public class ColorDemo {
 			                         { black, white, black, white } ,
 			                         { white, black, white, black } ,
 		                           };
+
 	}
 
     /**
